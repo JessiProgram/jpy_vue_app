@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.subrayado {
+    width: 100px;
+    height: 4px;
+    background: #ff80deff;
+    border: 0;
+    border-radius: 10px;
+}
+
+.text-lila {
+    color: #683bce;
+}
+
+.fill-lila {
+    fill: #683bce;
+}
+
+.fondo-lila {
+    background-color: #683bce;
+}
+
+.fondo-lila-hover:hover {
+    background-color: #683bce;
+}
+
+.fondo-lila-medio {
+    background-color: #906fdc;
+}
+
+.fondo-lila-medio-hover:hover {
+    background-color: #906fdc;
+}
+
+.fondo-lila-claro {
+    background-color: #e4e0ee;
+}
+
+.fondo-lila-claro-hover:hover {
+    background-color: #e4e0ee;
+}
+
+.fondo-azul {
+    background-color: #000022;
+}
+
+.fondo-azul-medio {
+    background-color: #10104e;
+}
+
+.fondo-azul-claro {
+    background-color: #1a1a62;
+}
+
+.fondo-azul-claro-hover:hover {
+    background-color: #1a1a62;
+}
